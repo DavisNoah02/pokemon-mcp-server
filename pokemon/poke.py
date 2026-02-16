@@ -58,6 +58,6 @@ async def list_popular_pokemon() -> str:
         "Dragonite", "Metagross", "Gardevoir"
     ])
 
-# --- Entry point ---
+# --- Entry point to communicate btwn client & server ---
 if __name__ == "__main__":
     mcp.run(transport="stdio")
