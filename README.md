@@ -148,14 +148,15 @@ If you run into issues with the server or `claude_desktop_config.json`, please o
 ## Contact
 - Issues: please use GitHub Issues for bugs and feature requests.
 - Email: m.davenoa@gmail.com
-- Project: https://github.com/DavisNoah02/pokemon-mcp-server.git
+- Project Repo: https://github.com/DavisNoah02/pokemon-mcp-server.git
 
 ## License
 Distributed under the MIT License. See `LICENSE` for details.
 
 ## Acknowledgments
-- Built with FastMCP.
-- Data provided by PokeAPI.
+- Built with [FastMCP](https://github.com/chain-ml/model-context-protocol)
+- Data provided by [PokeAPI](https://pokeapi.co/docs/v2)
 
-## Closing Notes
+---
+
 Thanks for checking out this MCP server. If this helps your workflows or demos, please consider starring the repo and sharing feedback or ideas for improvements.
